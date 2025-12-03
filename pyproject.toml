@@ -1,0 +1,17 @@
+[project]
+name = "machine-learning-and-data-science"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jax>=0.8.1",
+    "matplotlib>=3.10.7",
+    "nbconvert>=7.16.6",
+    "numpy>=2.3.5",
+    "opencv-python>=4.11.0.86",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.16.3",
+    "sympy>=1.14.0",
+]
