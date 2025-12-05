@@ -1,8 +1,26 @@
+---
+aliases: [Regression with Perceptron]
+tags: []
+created: 2025-12-03, 09:02:39
+modified: 2025-12-03, 14:48:01
+---
+
 # Regression with Perceptron
 
 In the week 2 assignment, you implemented the gradient descent method to build a linear regression model, predicting sales given a TV marketing budget. In this lab, you will construct a neural network corresponding to the same simple linear regression model. Then you will train the network, implementing the gradient descent method. After that you will increase the complexity of the neural network to build a multiple linear regression model, predicting house prices based on their size and quality.
 
+%%
+在第二周的作业里，你使用一个梯度下降的方法构建了一个线性模型，用电视营销的成本预测了销量。
+在这个实验中，你将使用和上一次一样的简单回归模型构建一个对应的神经网络。
+然后，你将采用梯度下降法来训练网络。
+然后，您将增加神经网络的复杂性，以构建一个多元线性回归模型。
+基于它们的尺寸和质量预测房屋的价格。
+%%
+
 *Note*: The same models were discussed in Course 1 "Linear Algebra" week 3 assignment, but model training with backward propagation was omitted.
+
+注意：
+同样的模型
 
 # Table of Contents
 
