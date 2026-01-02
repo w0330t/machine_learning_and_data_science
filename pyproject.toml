@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
+    "folium>=0.18.0",
     "ipympl>=0.9.3",
     "jax>=0.4.13",
     "jupyter>=1.1.1",
