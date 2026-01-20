@@ -4,3 +4,5 @@ https://www.coursera.org/specializations/mathematics-for-machine-learning-and-da
 把解说内容翻译了一下，方便自己学习。
 
 线性代数的头两周的内容没有做。
+
+**2026年1月20日19点，课程完结撒花❀**
